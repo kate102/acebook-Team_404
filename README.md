@@ -41,6 +41,11 @@ Travis is a `Continuous Integration` tool. Continuous Integration (CI) is a deve
 #### [Heruko](https://www.heroku.com/)
 Heruko is a cloud based repository that enables working applications be quickly deployed and enables agile project management. Working prototypes can be made available for client feedback and this facilitates the iterative development process.
 
+### [Materialize](https://materializecss.com/)
+This is a framework for creating impressive views quickly. It enables you to easily add drop downs and buttons and many other features without writing lines of CSS.
+
+### [Rubocop](https://rubocop.readthedocs.io/en/latest/)
+Rubocop is a linter that checks the quality of the code. 
 
 ## Installation
 
