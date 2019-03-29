@@ -19,16 +19,21 @@ The purpose of this project was two fold, to reproduce the functionality of a so
 
 ### The Technical Challenge
 
-The application was to mirror the functionality of the popular social media site, Facebook. The project was to be written in Ruby using the Rails framework.  and 
+The application was to mirror the functionality of the popular social media site, Facebook. The project was to be written in Ruby using the Rails framework.  
+
 The applications involved in this development:
+
+* GitHub
 * Rails
 * Devise
 * Travis
 * Heruko
-* GitHub
 * Materialize
 * Rubocop 
 * Simplecov
+
+#### GitHub
+This is a code based repository which holds the development code at each stage of enhancement. 
 
 #### [Rails](https://guides.rubyonrails.org/)
 This is a framework for writing Ruby programs. Rails promotes the concept that models, views, and controllers should be kept separate by storing the code for each element as separate files in separate directories. Installing Rails sets up the directory structure and provides a number of modules that facilitate the Model View Controller model. `ActiveRecord` is the business logic and database communication. `ActionView` deals with the presentation of pages returned to the client. `ActionController` handles browser requests and communication between the model and the view. 
@@ -42,10 +47,10 @@ Travis is a `Continuous Integration` tool. Continuous Integration (CI) is a deve
 #### [Heruko](https://www.heroku.com/)
 Heruko is a cloud based repository that enables working applications be quickly deployed and enables agile project management. Working prototypes can be made available for client feedback and this facilitates the iterative development process.
 
-### [Materialize](https://materializecss.com/)
+#### [Materialize](https://materializecss.com/)
 This is a framework for creating impressive views quickly. It enables you to easily add drop downs and buttons and many other features without writing lines of CSS.
 
-### [Rubocop](https://rubocop.readthedocs.io/en/latest/)
+#### [Rubocop](https://rubocop.readthedocs.io/en/latest/)
 Rubocop is a linter that checks the quality of the code. 
 
 #### Simplecov
@@ -54,9 +59,15 @@ This is a Ruby gem that checks the test coverage of the code. It returns a perce
 
 ## Installation
 
+### Installation of the development envrionment is as follows:
+* To be continued....
+
+### Installation of the run environment (?) is as follows:
+* To be continued....
+
 ## Testing
 
-la la la
+To be continued....
 
 ## Contributions
 
@@ -64,16 +75,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Deployment
 
-REQUIRED INSTRUCTIONS:
-
-1. Fork this repository to `acebook-teamname` and customize
-the below**
-
-[You can find the engineering project outline here.](https://github.com/makersacademy/course/tree/master/engineering_projects/rails)
-
-2. The card wall is here: <please update>
+To be continued....
   
 ## App
 
+To be continued....
+
 ## Material
+
+
 
