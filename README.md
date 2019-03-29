@@ -27,7 +27,8 @@ The applications involved in this development:
 * Heruko
 * GitHub
 * Materialize
-* Rubocop Linter
+* Rubocop 
+* Simplecov
 
 #### [Rails](https://guides.rubyonrails.org/)
 This is a framework for writing Ruby programs. Rails promotes the concept that models, views, and controllers should be kept separate by storing the code for each element as separate files in separate directories. Installing Rails sets up the directory structure and provides a number of modules that facilitate the Model View Controller model. `ActiveRecord` is the business logic and database communication. `ActionView` deals with the presentation of pages returned to the client. `ActionController` handles browser requests and communication between the model and the view. 
@@ -46,6 +47,10 @@ This is a framework for creating impressive views quickly. It enables you to eas
 
 ### [Rubocop](https://rubocop.readthedocs.io/en/latest/)
 Rubocop is a linter that checks the quality of the code. 
+
+#### Simplecov
+This is a Ruby gem that checks the test coverage of the code. It returns a percentage of test coverage that indictaes how much of the code, and therefore functionality, has not got a valid test.
+
 
 ## Installation
 
