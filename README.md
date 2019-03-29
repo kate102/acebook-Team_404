@@ -56,6 +56,11 @@ Rubocop is a linter that checks the quality of the code.
 #### Simplecov
 This is a Ruby gem that checks the test coverage of the code. It returns a percentage of test coverage that indictaes how much of the code, and therefore functionality, has not got a valid test.
 
+### The Group Work Challenge
+
+## Agile Practices
+
+To be continued...
 
 ## Installation
 
@@ -82,6 +87,7 @@ To be continued....
 To be continued....
 
 ## Material
+
 
 
 
