@@ -88,6 +88,8 @@ To be continued....
 
 ## Material
 
+- [GitHub Procedure](https://github.com/mmar8/acebook-Team_404/wiki/Git-Procedure)
+- [Hopes & Dreams](https://github.com/mmar8/acebook-Team_404/wiki/Hopes-and-dreams)
 
 
 
