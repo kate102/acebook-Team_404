@@ -89,7 +89,13 @@ The purpose of `Agile` practices is to make the development process more effecti
 ... To be continued
 
 ## Testing
-... To be continued
+
+### Database
+To delete the database between tests, run the following:
+* rm db/schema.rb
+* bundle exec rake db:drop
+* bundle exec rake db:create
+* bundle exec rake db:migrate
 
 ## Contributions
 
