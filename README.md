@@ -49,8 +49,7 @@ Heruko is a cloud based repository that enables working prototypes to be made av
 This is a user authentication package. It provides all of the complex functionality of user login, validation and encription. Using this has enabled us to avoid `reinventing the wheel`.
 
 #### [Materialize](http://materialize.labs.my/)
-
-
+This is a framework that speeds up the styling of the views in CSS by providing a library of tested functions that we bolt on. 
 
 ## Installation
 
