@@ -3,7 +3,7 @@
 
 <div align="center">    
   
-[Description ](#description) | 
+[Requirements ](#requirements) | 
 [Installation ](#installation) | 
 [Testing ](#testing) | 
 [Contributions ](#contributions) | 
@@ -13,13 +13,17 @@
 
 </div>
 
-## Description
+## Requirements
 
-The purpose of this project was two fold, to reproduce the functionality of a social network, using Rails and CI, and to work in teams using Agile practices. 
+The purpose of this project was two fold. The technical challenge is to reproduce the functionality of a social network, using Rails and CI. The additional challenge was to work in teams using Agile practices. 
 
 ### The Technical Challenge
 
-The application was to mirror the functionality of the popular social media site, Facebook. The project was to be written in Ruby using the Rails framework.  and 
+The challenge was to mirror the functionality of the popular social media site, Facebook. 
+We are using Ruby on Rails as the framework and programming language. The 
+
+The project was to be written in Ruby using the Rails framework. 
+
 The applications involved in this development:
 * Rails
 * Rubocop Linter
@@ -50,6 +54,10 @@ This is a user authentication package. It provides all of the complex functional
 
 #### [Materialize](http://materialize.labs.my/)
 This is a framework that speeds up the styling of the views in CSS by providing a library of tested functions that we bolt on. 
+
+### Agile Practices
+
+The purpose of `Agile` practices is to make the development process more effective and more responsive to changes. There is a pattern of comminucation methods, planning and development cycles and interation with the client that enables fast paced   
 
 ## Installation
 
