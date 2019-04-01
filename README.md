@@ -3,7 +3,7 @@
 
 <div align="center">    
   
-[Requirements ](#requirements) | 
+[Challenge ](#challenge) | 
 [Installation ](#installation) | 
 [Testing ](#testing) | 
 [Contributions ](#contributions) | 
@@ -13,9 +13,35 @@
 
 </div>
 
-## Requirements
+## Challenge
 
 The purpose of this project was two fold. The technical challenge is to reproduce the functionality of a social network, using Rails and CI. The additional challenge was to work in teams using Agile practices. 
+
+### The User Stories
+
+When a user hasn't signed up and visits the index of the application:
+- if they visit another URL, they are redirected to the index
+- they can see a sign up page which prompts them to enter in their email address and password.
+- they can only enter valid emails, otherwise they see helpful information to indicate why the email was not valid
+- they can only enter passwords between 6-10 characters, otherwise they see helpful information to indicate why the password was not valid
+- When they submit their details, they are logged in and redirected to their posts page with a message saying they were successful signing up
+
+When a user hasn't signed in and visits the index of the application:
+- if they visit another URL, they are redirected to the index
+- they can see a link to a sign in page which prompts them to enter in their email address and password.
+- they can only enter valid emails
+- When they submit their details, they are logged in and redirected to their posts page.
+
+A signed-in user can:
+- update their own posts for a maximum of 10 mins after they're created.
+- see a helpful error message if they try to update another user's post
+- delete their own posts.
+- see a helpful error message if they try to delete another user's post
+
+Posts:
+- appear with newest post first
+- can have new lines in them
+- show the date they were posted
 
 ### The Technical Challenge
 
