@@ -25,27 +25,33 @@ The applications involved in this development:
 
 * GitHub
 * Rails
+* Rubocop Linter
+* GitHub
 * Devise
 * Travis
 * Heruko
 * Materialize
-* Rubocop 
-* Simplecov
-
-#### GitHub
-This is a code based repository which holds the development code at each stage of enhancement. 
 
 #### [Rails](https://guides.rubyonrails.org/)
 This is a framework for writing Ruby programs. Rails promotes the concept that models, views, and controllers should be kept separate by storing the code for each element as separate files in separate directories. Installing Rails sets up the directory structure and provides a number of modules that facilitate the Model View Controller model. `ActiveRecord` is the business logic and database communication. `ActionView` deals with the presentation of pages returned to the client. `ActionController` handles browser requests and communication between the model and the view. 
 
+#### [Rubocop Linter](https://rubocop.readthedocs.io/en/latest/)
+To ensure that the code is clean and formatted properly we are using Rubocop. This will analyse the code and provide information about where the formatting is not correct.
+
+#### [GitHub](http://www.github.com)
+We are using GitHub as a development environment. This enables us to share the source code and work on different branches to ensure that there are no conflicts.
+
+#### [Travis](https://travis-ci.org/)
+Travis is a `Continuous Integration` tool. This enables us to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
+
+#### [Heruko](https://www.heroku.com/)
+Heruko is a cloud based repository that enables working prototypes to be made available for client feedback. This facilitates the iterative development process, making us more agile and able to respond to client feedback quickly.
+
 #### [Devise](https://github.com/plataformatec/devise)
 This is a user authentication package. It provides all of the complex functionality of user login, validation and encription. Using this has enabled us to avoid `reinventing the wheel`.
 
-#### [Travis](https://travis-ci.org/)
-Travis is a `Continuous Integration` tool. Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
+#### [Materialize](http://materialize.labs.my/)
 
-#### [Heruko](https://www.heroku.com/)
-Heruko is a cloud based repository that enables working applications be quickly deployed and enables agile project management. Working prototypes can be made available for client feedback and this facilitates the iterative development process.
 
 #### [Materialize](https://materializecss.com/)
 This is a framework for creating impressive views quickly. It enables you to easily add drop downs and buttons and many other features without writing lines of CSS.
