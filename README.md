@@ -46,7 +46,7 @@ Posts:
 ### The Technical Challenge
 
 The challenge was to mirror the functionality of the popular social media site, Facebook. 
-We are using Ruby on Rails as the framework and programming language. The 
+We are using Ruby on Rails as the framework and programming language. 
 
 The project was to be written in Ruby using the Rails framework. 
 
@@ -83,30 +83,23 @@ This is a framework that speeds up the styling of the views in CSS by providing 
 
 ### Agile Practices
 
-The purpose of `Agile` practices is to make the development process more effective and more responsive to changes. There is a pattern of comminucation methods, planning and development cycles and interation with the client that enables fast paced   
+The purpose of `Agile` practices is to make the development process more effective and more responsive to changes. There is a pattern of comminucation methods, planning and development cycles and interation with the client that enables fast paced. Each morning we have a `Standup`, this is a quick meeting to go over where we are and what everyone plans to do today. At the end of the day we have a `Retro` which covers what we achieved, what problems we had and a rough plan for the next day. We have 2 day `Sprints` covering the planning and modelling in the first day and the coding once we have agreed on a model and plan. We regularly commit from separate branches and Travis carries out a comprehensive test using our test suites before commiting a working, fully tested URL for the client to see and comment on. 
 
 ## Installation
+... To be continued
 
 ## Testing
-
-la la la
+... To be continued
 
 ## Contributions
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Deployment
-
-REQUIRED INSTRUCTIONS:
-
-1. Fork this repository to `acebook-teamname` and customize
-the below**
-
-[You can find the engineering project outline here.](https://github.com/makersacademy/course/tree/master/engineering_projects/rails)
-
-2. The card wall is here: <please update>
+... To be continued
   
 ## App
+... To be continued
 
 ## Material
-
+... To be continued
